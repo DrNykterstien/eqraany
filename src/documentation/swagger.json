@@ -1,0 +1,8 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+        "title": "Eqraany",
+        "description": "Free online books library",
+        "version": "1.0.0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "eqraany",
+  "version": "1.0.0",
+  "description": "Free online books library",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Callback Hell Avoiders Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0",
+    "swagger-jsdoc": "^6.2.0",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.1"
+  }
+}
